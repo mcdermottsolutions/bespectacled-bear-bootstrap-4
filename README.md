@@ -54,3 +54,8 @@ Todo:
 ---
 
 Let me know if you have any questions or anything.
+
+---
+
+Also, if you're looking for a good Bootstrap 4 install tutorial, this is a good one:
+https://scotch.io/bar-talk/whats-new-in-bootstrap-4
